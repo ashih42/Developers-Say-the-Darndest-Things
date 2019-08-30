@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "vlucas/phpdotenv": "^3.4",
+        "twbs/bootstrap": "4.0.0"
+    }
+}
